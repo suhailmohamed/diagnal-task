@@ -32,7 +32,7 @@ body {
   line-height: 1.2;
   letter-spacing: -0.3px;
   color: #19181d;
-  background-color: #ffffff;
+  background-color: #000000;
   margin: 0; }
 
 [tabindex="-1"]:focus {
@@ -6393,7 +6393,7 @@ input:focus {
     width: 1176px; } }
 
 @media (max-width: 767px) {
-  .xs-fullwidth {
+  .xs-full-width {
     width: 100%; } }
 
 .content-wrap {

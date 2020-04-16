@@ -23,6 +23,8 @@ export const theme = {
   white: '#FFFFFF',
   black: '#000000',
 
+  brandPrimary: '#CCCCCC',
+
   // Z-INDEX
   zIndex1: 1,
   zIndex2: 2,

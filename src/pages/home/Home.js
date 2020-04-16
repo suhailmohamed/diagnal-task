@@ -1,13 +1,11 @@
 import React from 'react';
-import styled from 'styled-components';
-
-const HomeWrapper = styled.div`
-`;
+import PosterCard from './Components/PosterCard';
 
 const Home = () => {
   return (
-    <HomeWrapper>
-    </HomeWrapper>
+    <div className="content-wrap">
+      <PosterCard />
+    </div>
   );
 };
 
